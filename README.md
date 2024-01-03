@@ -1,7 +1,7 @@
 # Crowdfunding_ETL
 
 ## Requirements
-###Include an ERD and table schema as well.
+### Include an ERD and table schema as well.
 
 ### A Category DataFrame is Created (15 points)
 The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is
